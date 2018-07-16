@@ -1,0 +1,10 @@
+﻿  Moc'ing QTh_Producer.h...
+  moc_QTh_Producer.cpp
+  moc_qthreaddemo.cpp
+  QTh_Comsumer.cpp
+  QTh_Producer.cpp
+  main.cpp
+  qthreaddemo.cpp
+  正在生成代码...
+  QThreadDemo.vcxproj -> C:\Users\jianghe01\Documents\Visual Studio 2015\Projects\Demo\QThreadDemo\x64\Debug\QThreadDemo.exe
+  QThreadDemo.vcxproj -> C:\Users\jianghe01\Documents\Visual Studio 2015\Projects\Demo\QThreadDemo\x64\Debug\QThreadDemo.pdb (Full PDB)
